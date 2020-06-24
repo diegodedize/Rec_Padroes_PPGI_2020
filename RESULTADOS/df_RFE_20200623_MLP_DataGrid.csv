@@ -1,0 +1,2 @@
+dataset_testado,modelo,melhor_parametro,acuracia_media,recall_medio,precisao_media,ic_acuracia,ic_recall,ic_presicao
+RFE,MLP,"{'activation': 'tanh', 'hidden_layer_sizes': 18, 'learning_rate_init': 0.01, 'max_iter': 90}",81.56%,80.08%,84.81%,75.88% E 87.24%,72.05% E 88.1%,79.02% E 90.6%

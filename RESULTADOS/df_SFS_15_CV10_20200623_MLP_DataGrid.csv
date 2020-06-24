@@ -1,0 +1,2 @@
+dataset_testado,modelo,melhor_parametro,acuracia_media,recall_medio,precisao_media,ic_acuracia,ic_recall,ic_presicao
+SFS_15_CV10,MLP,"{'activation': 'relu', 'hidden_layer_sizes': 36, 'learning_rate_init': 0.05, 'max_iter': 120}",91.69%,90.61%,94.18%,87.85% E 95.52%,85.26% E 95.95%,89.31% E 99.05%
