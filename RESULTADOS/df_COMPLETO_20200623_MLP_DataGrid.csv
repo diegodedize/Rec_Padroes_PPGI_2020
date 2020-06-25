@@ -1,0 +1,2 @@
+dataset_testado,modelo,melhor_parametro,acuracia_media,recall_medio,precisao_media,ic_acuracia,ic_recall,ic_presicao
+COMPLETO,MLP,"{'activation': 'relu', 'hidden_layer_sizes': 53, 'learning_rate_init': 0.05, 'max_iter': 60, 'verbose': False}",86.71%,86.21%,89.2%,82.32% E 91.1%,80.16% E 92.27%,83.23% E 95.18%
