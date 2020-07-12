@@ -1,0 +1,2 @@
+dataset_testado,modelo,melhor_parametro,acuracia_media,recall_medio,precisao_media,ic_acuracia,ic_recall,ic_presicao
+df_SFS_20200523_N15_CV10_s_idade_s_sexo,MLP,"{'activation': 'logistic', 'hidden_layer_sizes': 8, 'learning_rate_init': 0.1, 'max_iter': 30}",86.67%,82.73%,92.98%,82.5% E 90.84%,74.1% E 91.35%,86.74% E 99.22%
