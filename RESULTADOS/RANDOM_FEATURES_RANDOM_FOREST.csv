@@ -1,0 +1,2 @@
+dataset_testado,modelo,melhor_parametro,acuracia_media,recall_medio,precisao_media,ic_acuracia,ic_recall,ic_presicao
+RANDON_FOREST_IMPORTANTES,RF,"{'ccp_alpha': 0.0, 'max_features': 8, 'n_estimators': 250, 'n_jobs': -1, 'oob_score': False}",92.19%,88.86%,96.72%,89.48% E 94.89%,84.75% E 92.98%,92.72% E 100.72%
