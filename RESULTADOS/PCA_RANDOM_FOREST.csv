@@ -1,0 +1,2 @@
+dataset_testado,modelo,melhor_parametro,acuracia_media,recall_medio,precisao_media,ic_acuracia,ic_recall,ic_presicao
+PCA,RF,"{'ccp_alpha': 0.04, 'max_features': 8, 'n_estimators': 250, 'n_jobs': -1, 'oob_score': False}",81.21%,82.95%,82.67%,74.11% E 88.32%,75.45% E 90.46%,75.77% E 89.58%
