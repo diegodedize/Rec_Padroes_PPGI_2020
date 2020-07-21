@@ -1,0 +1,2 @@
+dataset_testado,modelo,melhor_parametro,acuracia_media,recall_medio,precisao_media,ic_acuracia,ic_recall,ic_presicao
+RANDON_FOREST_IMPORTANTES,Xgboost,"{'colsample_bytree': 0.5, 'learning_rate': 0.01, 'max_depth': 1, 'min_child_weight': 4, 'n_estimators': 800, 'objective': 'binary:logistic', 'scale_pos_weight': 1}",92.64%,91.44%,94.85%,88.23% E 97.05%,86.41% E 96.47%,90.61% E 99.09%

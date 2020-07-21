@@ -1,0 +1,2 @@
+dataset_testado,modelo,melhor_parametro,acuracia_media,recall_medio,precisao_media,ic_acuracia,ic_recall,ic_presicao
+RANDON_FOREST_IMPORTANTES,MLP,"{'activation': 'identity', 'hidden_layer_sizes': 328, 'learning_rate_init': 0.05, 'max_iter': 60}",87.1%,87.2%,89.28%,80.71% E 93.49%,80.16% E 94.23%,82.03% E 96.54%
