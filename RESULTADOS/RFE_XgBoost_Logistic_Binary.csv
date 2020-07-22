@@ -1,0 +1,2 @@
+dataset_testado,modelo,melhor_parametro,acuracia_media,recall_medio,precisao_media,ic_acuracia,ic_recall,ic_presicao
+RFE,Xgboost,"{'colsample_bytree': 0.05, 'learning_rate': 0.1, 'max_depth': 1, 'min_child_weight': 1, 'n_estimators': 500, 'objective': 'binary:hinge', 'scale_pos_weight': 1}",81.06%,78.41%,86.66%,78.44% E 83.68%,71.65% E 85.17%,79.97% E 93.35%

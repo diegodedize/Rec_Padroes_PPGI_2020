@@ -1,0 +1,2 @@
+dataset_testado,modelo,melhor_parametro,acuracia_media,recall_medio,precisao_media,ic_acuracia,ic_recall,ic_presicao
+KBEST_D75,svm,"{'C': 10, 'gamma': 0.0016, 'kernel': 'rbf'}",90.84%,85.53%,97.26%,87.1% E 94.59%,79.13% E 91.93%,94.09% E 100.43%

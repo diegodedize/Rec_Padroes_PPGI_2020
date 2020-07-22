@@ -1,0 +1,2 @@
+dataset_testado,modelo,melhor_parametro,acuracia_media,recall_medio,precisao_media,ic_acuracia,ic_recall,ic_presicao
+SFS_5_CV10_70,svm,"{'C': 0.9, 'gamma': 0.01, 'kernel': 'sigmoid'}",88.55%,81.97%,96.59%,84.45% E 92.65%,73.98% E 89.96%,92.37% E 100.81%

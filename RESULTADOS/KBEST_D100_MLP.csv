@@ -1,0 +1,2 @@
+dataset_testado,modelo,melhor_parametro,acuracia_media,recall_medio,precisao_media,ic_acuracia,ic_recall,ic_presicao
+KBEST_D100,MLP,"{'activation': 'relu', 'hidden_layer_sizes': 53, 'learning_rate_init': 0.01, 'max_iter': 30}",90.8%,88.18%,95.19%,87.0% E 94.6%,81.11% E 95.25%,90.04% E 100.34%

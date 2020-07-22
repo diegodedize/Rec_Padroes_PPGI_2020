@@ -1,0 +1,2 @@
+dataset_testado,modelo,melhor_parametro,acuracia_media,recall_medio,precisao_media,ic_acuracia,ic_recall,ic_presicao
+KBEST_D75,Xgboost,"{'colsample_bytree': 0.1, 'learning_rate': 0.2, 'max_depth': 1, 'min_child_weight': 1, 'n_estimators': 500, 'objective': 'binary:hinge', 'scale_pos_weight': 1}",90.3%,91.44%,91.99%,83.53% E 97.08%,87.46% E 95.42%,83.36% E 100.61%
