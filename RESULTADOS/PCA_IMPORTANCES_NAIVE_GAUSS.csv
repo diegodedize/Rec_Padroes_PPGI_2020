@@ -1,0 +1,2 @@
+dataset_testado,modelo,melhor_parametro,acuracia_media,recall_medio,precisao_media,ic_acuracia,ic_recall,ic_presicao
+PCA_IMPORTANCES,naive_Gauss,{'var_smoothing': 0.1},77.49%,67.35%,89.12%,70.84% E 84.14%,55.75% E 78.95%,81.68% E 96.56%

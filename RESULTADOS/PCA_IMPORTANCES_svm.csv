@@ -1,0 +1,2 @@
+dataset_testado,modelo,melhor_parametro,acuracia_media,recall_medio,precisao_media,ic_acuracia,ic_recall,ic_presicao
+PCA_IMPORTANCES,svm,"{'C': 1.5, 'gamma': 0.01886792, 'kernel': 'sigmoid'}",89.42%,83.71%,96.35%,85.34% E 93.49%,75.9% E 91.52%,92.96% E 99.73%
