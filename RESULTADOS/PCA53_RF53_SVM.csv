@@ -1,0 +1,2 @@
+dataset_testado,modelo,melhor_parametro,acuracia_media,recall_medio,precisao_media,ic_acuracia,ic_recall,ic_presicao
+RANDOM_C_PCA,svm,"{'C': 10, 'gamma': 0.0016, 'kernel': 'rbf'}",88.98%,86.21%,93.17%,84.32% E 93.65%,80.85% E 91.58%,87.24% E 99.11%
